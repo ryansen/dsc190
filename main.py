@@ -4,3 +4,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+def hello():
+    unused_variable = "hello"
+    print(unused_variable)
+
